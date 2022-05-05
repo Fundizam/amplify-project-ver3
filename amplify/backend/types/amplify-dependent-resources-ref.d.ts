@@ -16,5 +16,11 @@ export type AmplifyDependentResourcesAttributes = {
             "AppClientIDWeb": "string",
             "AppClientID": "string"
         }
+    },
+    "storage": {
+        "imageStorageAmplifyLuka": {
+            "BucketName": "string",
+            "Region": "string"
+        }
     }
 }

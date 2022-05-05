@@ -1,0 +1,14 @@
+{
+  "resourceName": "imageStorageAmplifyLuka",
+  "policyUUID": "a114c5ac",
+  "bucketName": "imagestorageamplifylukaf",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
